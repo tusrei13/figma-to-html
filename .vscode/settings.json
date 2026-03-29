@@ -1,0 +1,17 @@
+{
+    "vsintellicode.modify.editor.suggestSelection": "disabled",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.wordBasedSuggestions": "currentDocument",
+    "editor.inlayHints.enabled": "off",
+    "java.inlayHints.parameterNames.enabled": "none",
+    "editor.parameterHints.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false
+    }
+}
